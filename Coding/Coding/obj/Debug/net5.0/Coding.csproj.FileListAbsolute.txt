@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.exe
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.deps.json
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.runtimeconfig.json
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.dll
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\ref\Coding.dll
+C:\Users\maxib\source\repos\Coding\Coding\bin\Debug\net5.0\Coding.pdb
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.dll
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\ref\Coding.dll
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.pdb
+C:\Users\maxib\source\repos\Coding\Coding\obj\Debug\net5.0\Coding.genruntimeconfig.cache
